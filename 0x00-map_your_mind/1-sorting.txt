@@ -1,0 +1,9 @@
+#Algorithm that reads in 3 numbers and writes them in sorted order.
+Set array if numbers  = [ ] 
+
+- Prompt user to input a number, 
+- Store the number in the array of numbers
+- Repeat till you have 3 numbers in the array
+ 
+- Sort the array of numbers
+- Print the sorted numbers in order
