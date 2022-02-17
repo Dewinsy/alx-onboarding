@@ -1,0 +1,14 @@
+
+#Algorithm to calculate a running sum
+A user will enter numbers that will be added to the sum 
+and when a negative number is encountered, 
+stop adding numbers and write out the final result.
+
+- Set running_sum = 0
+- Prompt user to add number, n
+- WHILE n>0:
+    - runningsum = n + running_sum
+    - prompt for user input and continue cycle
+
+    - IF n < 0, 
+        - Print running_sum 
